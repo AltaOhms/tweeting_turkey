@@ -14,4 +14,4 @@ Parts used in this demo are:
 
 #Fritzing Image
 
-![Hook-up Image](https://cdn.sparkfun.com/external/Tweeting_Turkey_Fritzing_bb.png)
+<img src="https://cdn.sparkfun.com/external/Tweeting_Turkey_Fritzing_bb.png" width="400px" height="400px" />
