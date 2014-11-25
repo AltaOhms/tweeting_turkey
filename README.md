@@ -8,8 +8,10 @@ This is an example demo for SparkFun Live. It showcases how to tweet temperature
 Parts used in this demo are:
 
 
-[*Intel® Edison and Arduino Breakout Kit (DEV-13097)*](https://www.sparkfun.com/products/13097)
+* [*Intel® Edison and Arduino Breakout Kit (DEV-13097)*](https://www.sparkfun.com/products/13097)
+* [*Thermocouple Type-K Glass Braid Insulated (SEN-00251)*](https://www.sparkfun.com/products/251)
+* [*Thermocouple Amplifier AD595-AQ (COM-00306)*](https://www.sparkfun.com/products/306)
 
-[*Thermocouple Type-K Glass Braid Insulated (SEN-00251)*](https://www.sparkfun.com/products/251)
+#Fritzing Image
 
-[*Thermocouple Amplifier AD595-AQ (COM-00306)*](https://www.sparkfun.com/products/306)
+![Hook-up Image](https://cdn.sparkfun.com/external/Tweeting_Turkey_Fritzing_bb.png)
